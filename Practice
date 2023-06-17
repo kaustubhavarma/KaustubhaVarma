@@ -1,0 +1,4 @@
+code1
+if (x) {
+print ("yes")
+}
