@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://www.google.com/search?q=cat+gif+illustration+art&tbm=isch&ved=2ahUKEwjq742y49n_AhVT0qACHZ2cDhEQ2-cCegQIABAA&oq=cat+gif+illustration+art&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BwgAEIoFEEM6BggAEAgQHlCnBFiyGWDMGmgAcAB4AIABZogBpgySAQQxNy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=fsOVZOq4KNOkg8UPnbm6iAE&bih=691&biw=1433&client=firefox-b-d#imgrc=8zoiLcrWktKIEM">
+ <img alt="YOUR-ALT-TEXT" src=""/>
 </picture>
 
 # About Me
