@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src=""/>
+ <img alt="YOUR-ALT-TEXT" src="![Screenshot 2023-06-23 at 9 40 17 PM](https://github.com/kaustubhavarma/KaustubhaVarma/assets/136114974/86f9ba4e-0d17-4fe6-ab2a-c3ae3e72308d)"/>
 </picture>
 
 # About Me
